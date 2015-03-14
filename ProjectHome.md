@@ -1,0 +1,1 @@
+Gantt chart component using MVC architecture
